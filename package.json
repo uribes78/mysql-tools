@@ -25,6 +25,7 @@
     "ee-log" : "0.3.x",
     "ee-types" : "0.1.x",
     "es6-promise" : "^2.1.1",
+    "hasbin": "1.2.3",
     "install" : "^0.1.8"
   },
   "devDependencies" : {
